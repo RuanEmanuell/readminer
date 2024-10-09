@@ -1,0 +1,10 @@
+{
+  "labels":[
+    "aluguel",
+    "prestacao_servico",
+    "venda_compra",
+    "confidencialidade",
+    "parceria"
+  ],
+  "threshold":0.5
+}

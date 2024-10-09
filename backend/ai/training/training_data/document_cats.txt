@@ -1,0 +1,212 @@
+[
+    {
+        "name": "0",
+        "cats": {
+            "aluguel": 0.0,
+            "prestacao_servico": 1.0,
+            "venda/compra": 0.0,
+            "confidencialidade": 0.0,
+            "parceria": 0.0
+        }
+    },
+    {
+        "name": "1",
+        "cats": {
+            "aluguel": 0.0,
+            "prestacao_servico": 0.0,
+            "venda/compra": 1.0,
+            "confidencialidade": 0.0,
+            "parceria": 0.0
+        }
+    },
+    {
+        "name": "2",
+        "cats": {
+            "aluguel": 0.0,
+            "prestacao_servico": 0.0,
+            "venda/compra": 0.0,
+            "confidencialidade": 0.0,
+            "parceria": 1.0
+        }
+    },
+    {
+        "name": "3",
+        "cats": {
+            "aluguel": 0.0,
+            "prestacao_servico": 0.0,
+            "venda/compra": 0.0,
+            "confidencialidade": 1.0,
+            "parceria": 0.0
+        }
+    },
+    {
+        "name": "4",
+        "cats": {
+            "aluguel": 0.0,
+            "prestacao_servico": 0.0,
+            "venda/compra": 1.0,
+            "confidencialidade": 0.0,
+            "parceria": 0.0
+        }
+    },
+    {
+        "name": "5",
+        "cats": {
+            "aluguel": 0.0,
+            "prestacao_servico": 0.0,
+            "venda/compra": 1.0,
+            "confidencialidade": 0.0,
+            "parceria": 0.0
+        }
+    },
+    {
+        "name": "6",
+        "cats": {
+            "aluguel": 0.0,
+            "prestacao_servico": 1.0,
+            "venda/compra": 0.0,
+            "confidencialidade": 0.0,
+            "parceria": 0.0
+        }
+    },
+    {
+        "name": "7",
+        "cats": {
+            "aluguel": 1.0,
+            "prestacao_servico": 0.0,
+            "venda/compra": 0.0,
+            "confidencialidade": 0.0,
+            "parceria": 0.0
+        }
+    },
+    {
+        "name": "8",
+        "cats": {
+            "aluguel": 0.0,
+            "prestacao_servico": 0.0,
+            "venda/compra": 0.0,
+            "confidencialidade": 0.0,
+            "parceria": 1.0
+        }
+    },
+    {
+        "name": "9",
+        "cats": {
+            "aluguel": 0.0,
+            "prestacao_servico": 0.0,
+            "venda/compra": 1.0,
+            "confidencialidade": 0.0,
+            "parceria": 0.0
+        }
+    },
+    {
+        "name": "10",
+        "cats": {
+            "aluguel": 0.0,
+            "prestacao_servico": 0.0,
+            "venda/compra": 0.0,
+            "confidencialidade": 1.0,
+            "parceria": 0.0
+        }
+    },
+    {
+        "name": "11",
+        "cats": {
+            "aluguel": 0.0,
+            "prestacao_servico": 0.0,
+            "venda/compra": 0.0,
+            "confidencialidade": 0.0,
+            "parceria": 1.0
+        }
+    },
+    {
+        "name": "12",
+        "cats": {
+            "aluguel": 1.0,
+            "prestacao_servico": 0.0,
+            "venda/compra": 0.0,
+            "confidencialidade": 0.0,
+            "parceria": 0.0
+        }
+    },
+    {
+        "name": "13",
+        "cats": {
+            "aluguel": 0.0,
+            "prestacao_servico": 0.0,
+            "venda/compra": 0.0,
+            "confidencialidade": 1.0,
+            "parceria": 0.0
+        }
+    },
+    {
+        "name": "14",
+        "cats": {
+            "aluguel": 0.0,
+            "prestacao_servico": 1.0,
+            "venda/compra": 0.0,
+            "confidencialidade": 0.0,
+            "parceria": 0.0
+        }
+    },
+    {
+        "name": "15",
+        "cats": {
+            "aluguel": 0.0,
+            "prestacao_servico": 0.0,
+            "venda/compra": 1.0,
+            "confidencialidade": 0.0,
+            "parceria": 0.0
+        }
+    },
+    {
+        "name": "16",
+        "cats": {
+            "aluguel": 0.0,
+            "prestacao_servico": 1.0,
+            "venda/compra": 0.0,
+            "confidencialidade": 0.0,
+            "parceria": 0.0
+        }
+    },
+    {
+        "name": "17",
+        "cats": {
+            "aluguel": 0.0,
+            "prestacao_servico": 0.0,
+            "venda/compra": 0.0,
+            "confidencialidade": 0.0,
+            "parceria": 1.0
+        }
+    },
+    {
+        "name": "18",
+        "cats": {
+            "aluguel": 0.0,
+            "prestacao_servico": 0.0,
+            "venda/compra": 0.0,
+            "confidencialidade": 1.0,
+            "parceria": 0.0
+        }
+    },
+    {
+        "name": "19",
+        "cats": {
+            "aluguel": 0.0,
+            "prestacao_servico": 1.0,
+            "venda/compra": 0.0,
+            "confidencialidade": 0.0,
+            "parceria": 0.0
+        }
+    },
+    {
+        "name": "20",
+        "cats": {
+            "aluguel": 0.0,
+            "prestacao_servico": 0.0,
+            "venda/compra": 1.0,
+            "confidencialidade": 0.0,
+            "parceria": 0.0
+        }
+    }
+]
