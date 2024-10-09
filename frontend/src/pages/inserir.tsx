@@ -111,7 +111,7 @@ export default function Inserir() {
                 <Card titulo="Histórico Completo" texto="Acesse facilmente um histórico detalhado de contratos e suas análises para melhor acompanhamento e referência." icone={ClockCounterClockwise} altIcone="Icone de um relógio"></Card>
             </div>
             <div className="fixed bottom-0 flex flex-col items-center bg-white">
-                <button className="bg-[#0669b2] flex items-center justify-center gap-4 font-bold py-4 sm:px-20 px-16 text-white text-xl rounded-md shadow-md hover:bg-[#3b0f8c] transition-colors duration-300 cursor-pointer" onClick={() => document.getElementById('file-upload')!.click()}>
+                <button className="bg-[#0669b2] flex items-center justify-center gap-4 font-bold py-4 sm:px-20 px-16 text-white text-xl rounded-md shadow-md hover:bg-blue-900 transition-colors duration-300 cursor-pointer" onClick={() => document.getElementById('file-upload')!.click()}>
                     <FileArrowUp alt="Icone de um arquivo sendo enviado" size={50}></FileArrowUp>
                     <p className="sm:text-2xl text-xl text-medium text-white">Enviar Arquivo</p>
                     <input id="file-upload" type="file" accept=".pdf" onChange={submitArquivo} className="hidden" />
